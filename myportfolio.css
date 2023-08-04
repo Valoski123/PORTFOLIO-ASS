@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+.port{
+    position:sticky;
+    text-decoration: none;
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* display: contents; */
+    /* justify-content: flex-end; */
+    /* flex-direction: row; */
+}
+header{
+   
+    font-size: 15px;
+    color:black;
+}
+.portfolio {
+    display: flex;
+    text-decoration: none;
+
+    gap: 30px;
+}
+#folio2{
+   
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 300px; }
+
+.port2{
+    padding-top: 300px;
+    font-size: xx-large;
+    align-items: center;
+color: black;
+
+}
+.ball{
+    font-size: 20px;
+}
+.foot{
+    font-size:75px;
+}
+.rollsroyce{
+    font-size: 25px;
+}
+.port3{
+  padding-top: 50px;
+}
+img{
+    height: 400px;
+    width: 600px;
+
+}
+.p1{
+    height: 70px;
+    width: 70px;
+}
+P{
+    font-size: medium;
+}
+.portfolio li a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: poppins;
+}
+button{
+    box-sizing: border-box;
+
+}
+.info{
+    align-items: center;
+    justify-content: space-between;
+   justify-content: space-around;
+    color: black;
+
+    ;
+}
+.me{
+padding-top: 300px;
+    color: black;
+    font-size: x-large;
+    width: 40%;
+}
+.contactme{
+  color: black;
+    font-size: x-large;
+    padding-top: 300px;
+    padding-bottom: 100px;
+}
+button{background-color:aqua;
+}
+.ronaldo{
+    display: flex;
+    text-decoration: none;
+    gap: 1rem
+    ;
+    
+}
+.index{border-radius: 20px;
+    color: white;
+    border:none;
+    padding: 5px;
+}
+.index2{border-radius: 20px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+#ABOUT{ 
+    display: flex;
+    justify-content: space-around;
+}
+.I{
+    width: 40%;
+    padding-top: 200px;
+}
+#services{
+    text-align: center;
+   padding-top: 300px;
+   font-size: x-large;
+}
+.service1{
+    
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr) ;
+    grid-auto-rows: 300px;
+    justify-content: space-around;
+    grid-column-gap:4% ;
+}
+.service{
+    justify-content: space-around;
+    border-radius: 5px;
+    background-color: grey;
+    border: 2px solid grey;
+    text-decoration-color: white;
+    color:white;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.prem{
+    height: 200px;
+    width: 100%;
+}
+.league{
+    justify-content: space-between;
+}
+button{ border: none;
+padding: 5px;
+color: white;
+border-radius: 5px;
+}
+
+.contactme{
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    display: flex;
+    gap: 1.5rem;
+   
+}
+
+.bi{
+    font-size: 30px;
+    padding: 10px;
+}
